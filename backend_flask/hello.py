@@ -28,7 +28,8 @@ def hello():
         song_info.append(song_info_dict)
 
     df = pd.DataFrame(song_info)
-    json = df.to_json(force_ascii=False)
+    # record単位のjsonに変換
+    json = df.to_json(force_ascii=False, orient="records")
 
     return json
 
