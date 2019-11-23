@@ -13,7 +13,7 @@
 
 ## [React](https://ja.reactjs.org/)
 
-![react-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
+![react-logo](https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png)
 
 - ~~React プロジェクト作成~~
 - ~~axios インポートして HTTP 通信テスト~~
