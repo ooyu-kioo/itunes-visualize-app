@@ -9,7 +9,7 @@ root = tree.getroot()
 app = Flask(__name__)
 
 
-@app.route('/')
+@app.route('/api/home')
 def hello():
 
     # 要素取得：Xpath指定
