@@ -4,7 +4,7 @@
 
 ## [Flask](https://a2c.bitbucket.io/flask/)
 
-![flask-logo](https://a2c.bitbucket.io/flask/_images/logo-full.png)
+<img src="https://a2c.bitbucket.io/flask/_images/logo-full.png" width="500px">
 
 - ~~Flask インストールしてアプリ立ち上げ~~
 - ~~ファイル置いた状態で`xml`ファイルの読み込み~~
@@ -13,7 +13,7 @@
 
 ## [React](https://ja.reactjs.org/)
 
-![react-logo](https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png)
+<img src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png" width="500px">
 
 - ~~React プロジェクト作成~~
 - ~~axios インポートして HTTP 通信テスト~~
